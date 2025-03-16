@@ -27,15 +27,15 @@
 - [x] 프로젝트 구조 설명1 - 기본
 - [x] 프로젝트 구조 설명2 - 설정
 - [x] 프로젝트 구조 설명3 - 테스트
-- [ ] 데이터베이스 테이블 생성
-- [ ] 정리
+- [x] 데이터베이스 테이블 생성
+- [x] 정리
 
 ### 섹션 3: 데이터 접근 기술 - 스프링 JdbcTemplate
-- [ ] JdbcTemplate 소개와 설정
-- [ ] JdbcTemplate 적용1 - 기본
-- [ ] JdbcTemplate 적용2 - 동적 쿼리 문제
-- [ ] JdbcTemplate 적용3 - 구성과 실행
-- [ ] JdbcTemplate - 이름 지정 파라미터 1
+- [x] JdbcTemplate 소개와 설정
+- [x] JdbcTemplate 적용1 - 기본
+- [x] JdbcTemplate 적용2 - 동적 쿼리 문제
+- [x] JdbcTemplate 적용3 - 구성과 실행
+- [x] JdbcTemplate - 이름 지정 파라미터 1
 - [ ] JdbcTemplate - 이름 지정 파라미터 2
 - [ ] JdbcTemplate - 이름 지정 파라미터 3
 - [ ] JdbcTemplate - SimpleJdbcInsert
